@@ -1,2 +1,2 @@
-# nuevo-repositorio-precourse-henry
-este es un repositorio de prueba de henry
+daniel navarrete
+esta es una prueba de como clonar un repositorio
